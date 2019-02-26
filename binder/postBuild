@@ -1,0 +1,4 @@
+#!/bin/bash
+git lfs install
+git clone https://repos.cosmos.esa.int/socci/scm/spice_kernels/MARS-EXPRESS.git
+cd MARS-EXPRESS/kernels/mk && spiops-mk

@@ -1,0 +1,8 @@
+ipython
+pandas
+spiops
+spiceypy
+bokeh
+numpy
+matplotlib
+jupyterlab_launcher>=0.5.0
